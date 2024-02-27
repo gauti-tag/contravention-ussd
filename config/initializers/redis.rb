@@ -1,0 +1,1 @@
+REDIS_CLIENT = Redis.new(host: 'contraventions-redis', port: 6379, db: 0)
